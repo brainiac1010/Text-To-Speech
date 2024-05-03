@@ -90,3 +90,13 @@ select {
     background-position-y: 20px;
 
 }
+
+span {
+    text-decoration: underline;
+
+}
+
+.underline {
+    text-decoration: underline;
+    text-decoration-color: #fff;
+}
